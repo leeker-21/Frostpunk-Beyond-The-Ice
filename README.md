@@ -228,4 +228,4 @@ Frostpunk: Beyond the Ice is a full free version, providing all features and upd
 Ready to face the challenges of survival in Frostpunk: Beyond the Ice? **Download now and embark on your journey in a frozen world!**
 
 ---
-**Last updated:** 2026-10-06 02:44:07 UTC
+**Last updated:** 2026-10-06 09:35:21 UTC
